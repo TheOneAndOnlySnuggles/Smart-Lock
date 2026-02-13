@@ -104,7 +104,7 @@ All routes use `GET` requests:
 
 ## 🧑‍💻 Author
 
-Made by [FactuallyMiserable](https://github.com/FactuallyMiserable)  
+Made by [TheOneAndOnlySnuggles](https://github.com/TheOneAndOnlySnuggles)  
 Pull requests, issues, and feedback welcome!
 
 ---
